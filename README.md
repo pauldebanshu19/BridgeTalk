@@ -31,7 +31,7 @@ cd ActionDetectionforSignLanguage
 
 2. Install the required dependencies:
 ```bash
-pip install tensorflow opencv-python mediapipe numpy
+pip install -r requirements.txt
 ```
 
 ## Usage
