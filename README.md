@@ -26,7 +26,7 @@ A real-time sign language detection system using Mediapipe and TensorFlow. This 
 1. Clone the repository:
 ```bash
 git clone https://github.com/pauldebanshu19/BridgeTalk.git
-cd ActionDetectionforSignLanguage
+cd BridgeTalk
 ```
 
 2. Install the required dependencies:
